@@ -1,4 +1,6 @@
-# Criando uma API
+# Construindo-API-Nodejs-escaláveis-com-solid-TDD
+
+versão do node 16.13.2, precisa ser 16 ou maior.
 
 ## Dependencias
 
